@@ -1,0 +1,222 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Working/CLP_Programs/Codigos/genEna/Simulacion
+Econtbcd
+Z0 w1722906737
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 22
+Z4 dC:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Simulacion
+Z5 8C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD.vhd
+Z6 FC:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD.vhd
+l0
+L5 1
+V<?n?bL<mNZV]:edb>^WP]1
+!s100 odIIaVMI76dbbT;GcMg=>3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1722909987
+!i10b 1
+Z9 !s108 1722909987.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD.vhd|
+Z11 !s107 C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acontbcd_arq
+R1
+R2
+R3
+Z14 DEx4 work 7 contbcd 0 22 <?n?bL<mNZV]:edb>^WP]1
+!i122 22
+l38
+L15 60
+Vjc;HR^F4Y13Y^=ZlXR50e1
+!s100 3B:i:dRgb<]Sm08eS5=mV1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtbcd_lento
+Z15 w1722909413
+R1
+R2
+R3
+!i122 20
+R4
+Z16 8C:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Fuentes/contBCD_Lento.vhd
+Z17 FC:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Fuentes/contBCD_Lento.vhd
+l0
+L5 1
+V]7FE@eUT_o5h:iRmh;28F1
+!s100 OACf0bjQBdV<gdl;ib5Ik3
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Fuentes/contBCD_Lento.vhd|
+Z19 !s107 C:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Fuentes/contBCD_Lento.vhd|
+!i113 1
+R12
+R13
+Acontbcd_lento_arq
+Z20 DEx4 work 6 genena 0 22 9E6Ahn00`n8lfZem`^n>O0
+R14
+R1
+R2
+R3
+DEx4 work 13 contbcd_lento 0 22 ]7FE@eUT_o5h:iRmh;28F1
+!i122 20
+l22
+L18 31
+VW;8nJAS;MaaT44>DgUhNn3
+!s100 ;P9IU4KoOU4o?beLKI5Gh0
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Econtbcd_lento_tb
+Z21 w1722909979
+R2
+R3
+!i122 21
+R4
+Z22 8C:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Fuentes/contBCD_Lento_tb.vhd
+Z23 FC:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Fuentes/contBCD_Lento_tb.vhd
+l0
+L4 1
+V9W:cF0WD:@H4LOc0L4LzD1
+!s100 2@L7_7VRC_Ik1[NE918?V1
+R7
+32
+R8
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Fuentes/contBCD_Lento_tb.vhd|
+Z25 !s107 C:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Fuentes/contBCD_Lento_tb.vhd|
+!i113 1
+R12
+R13
+Acontbcd_lento_tb_arq
+R2
+R3
+DEx4 work 16 contbcd_lento_tb 0 22 9W:cF0WD:@H4LOc0L4LzD1
+!i122 21
+l28
+L7 40
+Vb0El6`P0RLzU^JFO<47=D0
+!s100 TG?KeeZK0_C>VnXe_j]2S2
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13
+Egenena
+Z26 w1722907783
+R2
+R3
+!i122 24
+R4
+Z27 8C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd
+Z28 FC:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd
+l0
+L6 1
+V9E6Ahn00`n8lfZem`^n>O0
+!s100 3fFjnH2Kh^Sg=eP[1eFT83
+R7
+32
+Z29 !s110 1722909988
+!i10b 1
+Z30 !s108 1722909988.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd|
+Z32 !s107 C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd|
+!i113 1
+R12
+R13
+Agenena_arq
+R2
+R3
+R20
+!i122 24
+l20
+Z33 L16 28
+Z34 Va;744B]AlhOS0<N:HVz<X0
+Z35 !s100 iIU4DBLi6Mcnnb9obo=gW0
+R7
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R12
+R13
+Ereg
+Z36 w1721749774
+R2
+R3
+!i122 23
+R4
+Z37 8C:/Working/CLP_Programs/Codigos/reg/Fuentes/reg.vhd
+Z38 FC:/Working/CLP_Programs/Codigos/reg/Fuentes/reg.vhd
+l0
+L4 1
+VHUh4m=LXTdKTGz]g41AdT0
+!s100 A3RQ?OPkO4zAP9[mVjbSD3
+R7
+32
+R29
+!i10b 1
+R9
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/reg/Fuentes/reg.vhd|
+Z40 !s107 C:/Working/CLP_Programs/Codigos/reg/Fuentes/reg.vhd|
+!i113 1
+R12
+R13
+Areg_arq
+R2
+R3
+DEx4 work 3 reg 0 22 HUh4m=LXTdKTGz]g41AdT0
+!i122 23
+l18
+L17 14
+VkmYRl:[Il_4lIPc8M9XI03
+!s100 l^VA1V0[IKQmH8=Vne6E`1
+R7
+32
+R29
+!i10b 1
+R9
+R39
+R40
+!i113 1
+R12
+R13

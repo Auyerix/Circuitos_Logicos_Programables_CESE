@@ -1,0 +1,20 @@
+C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contadorBCD
+-- Compiling architecture contadorBCD_arq of contadorBCD
+
+} {} {}} C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity contadorBCD_tb
+-- Compiling architecture contadorBCD_tb_arq of contadorBCD_tb
+-- Loading entity contadorBCD
+
+} {} {}}

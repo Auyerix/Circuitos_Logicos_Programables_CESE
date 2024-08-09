@@ -1,0 +1,98 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Econtadorbcd
+Z0 w1722887366
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z4 dC:/Working/CLP_Programs/Codigos/contBCD2/Simulacion
+Z5 8C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2.vhd
+Z6 FC:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2.vhd
+l0
+L7 1
+V7KKnzd[PL:gg^5ClJNGG43
+!s100 V1gS4<`ZbJ@HZE3<hZ;Xe0
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1722889968
+!i10b 1
+Z9 !s108 1722889968.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2.vhd|
+Z11 !s107 C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acontadorbcd_arq
+R1
+R2
+R3
+Z14 DEx4 work 11 contadorbcd 0 22 7KKnzd[PL:gg^5ClJNGG43
+!i122 0
+l20
+L18 24
+VZOdYLN?57iTDCMAX`K5g13
+!s100 ;UE9gRbKP@K8Bi]iG?>hD1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtadorbcd_tb
+Z15 w1722887383
+R1
+R2
+R3
+!i122 1
+R4
+Z16 8C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2_tb.vhd
+Z17 FC:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2_tb.vhd
+l0
+L6 1
+VM7M<F7T5bzJ69i;b`fjSS2
+!s100 :WR]?nBajM<f9Ud`_Vio>0
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2_tb.vhd|
+!s107 C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2_tb.vhd|
+!i113 1
+R12
+R13
+Acontadorbcd_tb_arq
+R14
+R1
+R2
+R3
+DEx4 work 14 contadorbcd_tb 0 22 M7M<F7T5bzJ69i;b`fjSS2
+!i122 1
+l24
+L9 42
+V9RDQQE2]O<=Cb>kaZGGoO0
+!s100 dC2;mJcd>>C1GcYjP0U`n0
+R7
+32
+R8
+!i10b 1
+R9
+R18
+Z19 !s107 C:/Working/CLP_Programs/Codigos/contBCD2/Fuentes/contBCD2_tb.vhd|
+!i113 1
+R12
+R13

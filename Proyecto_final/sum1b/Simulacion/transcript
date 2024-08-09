@@ -1,0 +1,27 @@
+# Compile of sumNb.vhd was successful.
+# Compile of sumNb_tb.vhd was successful.
+# Compile of sum1b.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.sumnb_tb
+# vsim work.sumnb_tb 
+# Start time: 19:55:34 on Jul 31,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.sumnb_tb(sumnb_tb_arq)
+# Loading work.sumnb(sumnb_arq)
+# Loading work.sum1b(sum1b_arq)
+add wave -position end  sim:/sumnb_tb/a_tb
+add wave -position end  sim:/sumnb_tb/b_tb
+add wave -position end  sim:/sumnb_tb/ci_tb
+add wave -position end  sim:/sumnb_tb/s_tb
+add wave -position end  sim:/sumnb_tb/co_tb
+add wave -position end  sim:/sumnb_tb/N_tb
+run
+run
+quit -sim
+# End time: 21:48:09 on Jul 31,2024, Elapsed time: 1:52:35
+# Errors: 0, Warnings: 2
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project sumRest

@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Working/CLP_Programs/Codigos/sum1b/Simulacion
+Esum1b
+Z1 w1684172060
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+R0
+Z4 8C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b.vhd
+Z5 FC:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b.vhd
+l0
+L4 1
+VNhe72=U:>jL^DZVfPFcR22
+!s100 [9hL[kO`3^1UREP<nb:I_1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1722465684
+!i10b 1
+Z8 !s108 1722465684.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b.vhd|
+Z10 !s107 C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum1b_arq
+R2
+R3
+DEx4 work 5 sum1b 0 22 Nhe72=U:>jL^DZVfPFcR22
+!i122 2
+l15
+L14 7
+VhD58hI1^ZJQm7NXHPhgho1
+!s100 2UZPWB0l45Eh=M<5d]05e2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esum1b_tb
+R1
+R2
+R3
+!i122 3
+R0
+Z13 8C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b_tb.vhd
+Z14 FC:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b_tb.vhd
+l0
+L4 1
+Vm1JU;JC^LEM@@ABW3m_>02
+!s100 UUzkPlkmHeM2[ice`_j[[1
+R6
+32
+R7
+!i10b 1
+R8
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b_tb.vhd|
+Z16 !s107 C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b_tb.vhd|
+!i113 1
+R11
+R12
+Asum1b_tb_arq
+R2
+R3
+Z17 DEx4 work 8 sum1b_tb 0 22 m1JU;JC^LEM@@ABW3m_>02
+!i122 3
+l27
+Z18 L7 39
+Z19 VUE]F9:>WhkgUG^f`Z8UHG1
+Z20 !s100 k1;e<dOzDcY^FdmmU<MO51
+R6
+32
+R7
+!i10b 1
+R8
+R15
+R16
+!i113 1
+R11
+R12

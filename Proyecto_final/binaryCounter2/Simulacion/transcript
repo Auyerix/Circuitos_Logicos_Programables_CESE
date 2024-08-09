@@ -1,0 +1,44 @@
+# Compile of contBCD2.vhd failed with 4 errors.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 2 failed with 7 errors.
+# Compile of contBCD2.vhd failed with 4 errors.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 2 failed with 7 errors.
+# Compile of contBCD2.vhd failed with 4 errors.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 2 failed with 7 errors.
+# Compile of contBCD2.vhd failed with 7 errors.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 2 failed with 10 errors.
+# Compile of contBCD2.vhd failed with 6 errors.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 2 failed with 9 errors.
+# Compile of contBCD2.vhd failed with 4 errors.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 2 failed with 7 errors.
+# Compile of contBCD2.vhd was successful.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of contBCD2.vhd was successful.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of contBCD2.vhd was successful.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of contBCD2.vhd was successful.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of contBCD2.vhd was successful.
+# Compile of contBCD2_tb.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of contBCD2.vhd was successful.
+# Compile of contBCD2_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.contadorbcd2_tb
+# vsim work.contadorbcd2_tb 
+# Start time: 16:50:20 on Aug 05,2024
+# Loading std.standard
+# ** Error: (vsim-3173) Entity 'C:/Working/CLP_Programs/Codigos/contBCD2/Simulacion/work.contadorbcd2_tb' has no architecture.
+# Error loading design
+# End time: 16:50:20 on Aug 05,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 16

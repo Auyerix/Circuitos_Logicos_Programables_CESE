@@ -1,0 +1,100 @@
+# Compile of genEna.vhd failed with 5 errors.
+# Compile of genEna_tb.vhd failed with 2 errors.
+# 2 compiles, 2 failed with 7 errors.
+# Compile of genEna.vhd failed with 2 errors.
+# Compile of genEna_tb.vhd failed with 2 errors.
+# 2 compiles, 2 failed with 4 errors.
+# Compile of genEna.vhd was successful.
+# Compile of genEna_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of genEna.vhd was successful.
+# Compile of genEna_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of genEna.vhd was successful.
+# Compile of genEna_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.genena_tb
+# vsim work.genena_tb 
+# Start time: 22:32:30 on Aug 05,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.genena_tb(genena_tb_arq)
+# Loading work.genena(genena_arq)
+add wave -position end  sim:/genena_tb/clk_tb
+add wave -position end  sim:/genena_tb/ena_tb
+add wave -position end  sim:/genena_tb/rst_tb
+add wave -position end  sim:/genena_tb/q_tb
+add wave -position end  sim:/genena_tb/N_tb
+run
+quit -sim
+# End time: 22:50:10 on Aug 05,2024, Elapsed time: 0:17:40
+# Errors: 0, Warnings: 9
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project contBCD_Lento
+# Compile of contBCD_Lento.vhd failed with 4 errors.
+# Compile of contBCD_Lento_tb.vhd failed with 1 errors.
+# Compile of contBCD.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 5 compiles, 2 failed with 5 errors.
+# Compile of contBCD_Lento.vhd was successful.
+# Compile of contBCD_Lento_tb.vhd failed with 1 errors.
+# Compile of contBCD.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 5 compiles, 1 failed with 1 error.
+# Compile of contBCD_Lento.vhd was successful.
+# Compile of contBCD_Lento_tb.vhd was successful.
+# Compile of contBCD.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.contbcd_lento_tb
+# vsim work.contbcd_lento_tb 
+# Start time: 23:00:28 on Aug 05,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.contbcd_lento_tb(contbcd_lento_tb_arq)
+# Loading ieee.numeric_std(body)
+# Loading work.contbcd_lento(contbcd_lento_arq)
+# Loading work.contbcd(contbcd_arq)
+# Loading work.reg(reg_arq)
+# Loading work.genena(genena_arq)
+add wave -position end  sim:/contbcd_lento_tb/clk_tb
+add wave -position end  sim:/contbcd_lento_tb/rst_tb
+add wave -position end  sim:/contbcd_lento_tb/ena_tb
+add wave -position end  sim:/contbcd_lento_tb/q_tb
+add wave -position end  sim:/contbcd_lento_tb/max_tb
+run
+# Compile of contBCD_Lento.vhd was successful.
+# Compile of contBCD_Lento_tb.vhd failed with 3 errors.
+# Compile of contBCD.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 5 compiles, 1 failed with 3 errors.
+# Compile of contBCD_Lento.vhd was successful.
+# Compile of contBCD_Lento_tb.vhd was successful.
+# Compile of contBCD.vhd was successful.
+# Compile of reg.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.contbcd_lento_tb(contbcd_lento_tb_arq)
+# Loading work.contbcd_lento(contbcd_lento_arq)
+# Loading work.contbcd(contbcd_arq)
+# Loading work.reg(reg_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+add wave -position end  sim:/contbcd_lento_tb/DUT/inst_gen_ena/q_o
+run
+quit -sim
+# End time: 23:26:36 on Aug 05,2024, Elapsed time: 0:26:08
+# Errors: 0, Warnings: 1

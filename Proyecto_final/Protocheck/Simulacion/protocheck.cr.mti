@@ -1,0 +1,57 @@
+C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity protocheck_tb
+-- Compiling architecture protocheck_tb_arq of protocheck_tb
+-- Loading package NUMERIC_STD
+-- Loading entity protocheck
+
+} {} {}} C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}} C:/Working/CLP_Programs/Codigos/shiftReg/Fuentes/shiftreg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/shiftReg/Fuentes/shiftreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftreg
+-- Compiling architecture shiftreg_arq of shiftreg
+-- Loading entity ffd
+
+} {} {}} C:/Working/CLP_Programs/Codigos/comparador/Fuentes/comparador.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/comparador/Fuentes/comparador.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity comparador
+-- Compiling architecture comparador_arq of comparador
+
+} {} {}} C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity genEna
+-- Compiling architecture genEna_arq of genEna
+
+} {} {}} C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity protocheck
+-- Compiling architecture protocheck_arq of protocheck
+-- Loading entity comparador
+-- Loading entity shiftreg
+-- Loading entity genEna
+
+} {} {}}

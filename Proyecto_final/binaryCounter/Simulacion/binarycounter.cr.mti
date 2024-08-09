@@ -1,0 +1,28 @@
+C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity binarycounter
+-- Compiling architecture binarycounter_arq of binarycounter
+-- Loading entity ffd
+
+} {} {}} C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity binarycounter_tb
+-- Compiling architecture binarycounter_tb_arq of binarycounter_tb
+-- Loading entity binarycounter
+
+} {} {}} C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}}

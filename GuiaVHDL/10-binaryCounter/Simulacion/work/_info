@@ -1,0 +1,138 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Working/CLP_Programs/Codigos/binaryCounter2/Simulacion
+Ebinarycounter
+Z0 w1722803697
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+Z3 dC:/Working/CLP_Programs/Codigos/binaryCounter/Simulacion
+Z4 8C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter.vhd
+Z5 FC:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter.vhd
+l0
+L4 1
+VHdmnL0MZ3oNY9K]Kl[1oT0
+!s100 [B7GG9DBED7NGH=0CZ?aa1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1722871211
+!i10b 1
+Z8 !s108 1722871211.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter.vhd|
+Z10 !s107 C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abinarycounter_arq
+Z13 DEx4 work 3 ffd 0 22 kKh85Id]>XkIM:R;l1bQX0
+R1
+R2
+Z14 DEx4 work 13 binarycounter 0 22 HdmnL0MZ3oNY9K]Kl[1oT0
+!i122 3
+l23
+L17 33
+V1eElRH;h>0XN5=HQ9670]1
+!s100 _5<1Z9:6hS=HJak=a@zHd0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebinarycounter_tb
+Z15 w1722804312
+Z16 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 4
+R3
+Z17 8C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter_tb.vhd
+Z18 FC:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter_tb.vhd
+l0
+L9 1
+VT:CJdE>m2VnEV:fbz5kKA0
+!s100 h1a@1feiV36ikH>f^]XGd1
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter_tb.vhd|
+Z20 !s107 C:/Working/CLP_Programs/Codigos/binaryCounter/Fuentes/binaryCounter_tb.vhd|
+!i113 1
+R11
+R12
+Abinarycounter_tb_arq
+R14
+R16
+R1
+R2
+DEx4 work 16 binarycounter_tb 0 22 T:CJdE>m2VnEV:fbz5kKA0
+!i122 4
+l26
+L12 39
+Vf]G<19c^iTlH:Elfh`F]42
+!s100 `7jBm16Q9<cEI=TgTnmTX2
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Effd
+Z21 w1721516720
+R1
+R2
+!i122 5
+R3
+Z22 8C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd
+Z23 FC:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd
+l0
+L4 1
+VkKh85Id]>XkIM:R;l1bQX0
+!s100 nOXBP1eVQTdC4MfjcR>e31
+R6
+32
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd|
+Z25 !s107 C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd|
+!i113 1
+R11
+R12
+Affd_arq
+R1
+R2
+R13
+!i122 5
+l17
+Z26 L15 17
+Z27 VSC^bnNNU>^SP?X`T9G]g81
+Z28 !s100 J:JD@Fd0[R:7[d2jhJ1cD3
+R6
+32
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12

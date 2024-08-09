@@ -1,0 +1,200 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Working/CLP_Programs/Codigos/shiftReg/Simulacion
+Effd
+Z0 w1721516720
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 11
+Z3 dC:/Working/CLP_Programs/Codigos/shiftRegSerie/Simulacion
+Z4 8C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd
+Z5 FC:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd
+l0
+L4 1
+VkKh85Id]>XkIM:R;l1bQX0
+!s100 nOXBP1eVQTdC4MfjcR>e31
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1722703378
+!i10b 1
+Z8 !s108 1722703378.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd|
+Z10 !s107 C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Affd_arq
+R1
+R2
+Z13 DEx4 work 3 ffd 0 22 kKh85Id]>XkIM:R;l1bQX0
+!i122 11
+l17
+Z14 L15 17
+Z15 VSC^bnNNU>^SP?X`T9G]g81
+Z16 !s100 J:JD@Fd0[R:7[d2jhJ1cD3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshiftreg
+w1722702727
+R1
+R2
+!i122 0
+R3
+Z17 8C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie.vhd
+Z18 FC:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie.vhd
+l0
+L4 1
+VklZ62`eBjln75nh0f5aPJ1
+!s100 282J0HgccZSVTjWM`baG93
+R6
+32
+Z19 !s110 1722703125
+!i10b 1
+Z20 !s108 1722703125.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie.vhd|
+Z22 !s107 C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie.vhd|
+!i113 1
+R11
+R12
+Eshiftreg_tb
+Z23 w1722703014
+R1
+R2
+!i122 1
+R3
+Z24 8C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie_tb.vhd
+Z25 FC:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie_tb.vhd
+l0
+L4 1
+V1Gd=UAYOXfCJl2cYja4Zo1
+!s100 U9>jm:5_`l_Bdo?Al`aKo3
+R6
+32
+R19
+!i10b 1
+R20
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie_tb.vhd|
+Z27 !s107 C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie_tb.vhd|
+!i113 1
+R11
+R12
+Ashiftreg_tb_arq
+DEx4 work 8 shiftreg 0 22 klZ62`eBjln75nh0f5aPJ1
+R1
+R2
+DEx4 work 11 shiftreg_tb 0 22 1Gd=UAYOXfCJl2cYja4Zo1
+!i122 1
+l19
+Z28 L7 33
+V5gQ8eeondP0o4eOB;g=8O3
+!s100 1H9En0`QFXPd6b=IhFP9J3
+R6
+32
+R19
+!i10b 1
+R20
+R26
+R27
+!i113 1
+R11
+R12
+Eshiftregserie
+Z29 w1722703371
+R1
+R2
+!i122 9
+R3
+R17
+R18
+l0
+L4 1
+VPeGmCE^k4OCX`o7<R4AKf2
+!s100 9zXJ;Ahib9SXA=XzaBC[41
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Ashiftregserie_arq
+R13
+R1
+R2
+Z30 DEx4 work 13 shiftregserie 0 22 PeGmCE^k4OCX`o7<R4AKf2
+!i122 9
+l23
+L19 26
+V2TdUg89:N6?h8DiLZeLMf2
+!s100 C6PGYZ5MZoFbZoGDOKna51
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Eshiftregserie_tb
+Z31 w1722703261
+R1
+R2
+!i122 10
+R3
+R24
+R25
+l0
+L4 1
+V0A3>gc9WKIGzfzCfkBf7J0
+!s100 [>PJPYL7E3GAo558bgYBo2
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12
+Ashiftregserie_tb_arq
+R30
+R1
+R2
+DEx4 work 16 shiftregserie_tb 0 22 0A3>gc9WKIGzfzCfkBf7J0
+!i122 10
+l19
+R28
+V<MWnjF5E;SJIlT5GR^`nj3
+!s100 d39CEGF4RbnI3HWPV?A@O2
+R6
+32
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12

@@ -1,0 +1,28 @@
+project open C:/Working/CLP_Programs/Codigos/sumNb/Simulacion/sumNb
+# Compile of sumNb.vhd was successful.
+# Compile of sumNb_tb.vhd was successful.
+# Compile of sum1b.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.sumnb_tb
+# vsim work.sumnb_tb 
+# Start time: 19:15:22 on Jul 31,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.sumnb_tb(sumnb_tb_arq)
+# Loading work.sumnb(sumnb_arq)
+# Loading work.sum1b(sum1b_arq)
+run
+run
+run
+run
+run
+# Compile of sumNb.vhd was successful.
+# Compile of sumNb_tb.vhd was successful.
+# Compile of sum1b.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+run
+quit -sim
+# End time: 19:39:00 on Jul 31,2024, Elapsed time: 0:23:38
+# Errors: 0, Warnings: 3

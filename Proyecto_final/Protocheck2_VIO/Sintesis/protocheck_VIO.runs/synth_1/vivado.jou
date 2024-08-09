@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Aug  8 14:12:42 2024
+# Process ID: 4172
+# Current directory: C:/Working/CLP_Programs/Codigos/Protocheck2_VIO/Sintesis/protocheck_VIO.runs/synth_1
+# Command line: vivado.exe -log protocheck_VIO.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source protocheck_VIO.tcl
+# Log file: C:/Working/CLP_Programs/Codigos/Protocheck2_VIO/Sintesis/protocheck_VIO.runs/synth_1/protocheck_VIO.vds
+# Journal file: C:/Working/CLP_Programs/Codigos/Protocheck2_VIO/Sintesis/protocheck_VIO.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source protocheck_VIO.tcl -notrace

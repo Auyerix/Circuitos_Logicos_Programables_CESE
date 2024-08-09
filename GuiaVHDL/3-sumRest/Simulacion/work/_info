@@ -1,0 +1,180 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Working/CLP_Programs/Codigos/sumNb/Simulacion
+Esum1b
+Z0 w1684172060
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 21
+Z3 dC:/Working/CLP_Programs/Codigos/sumRest/Simulacion
+Z4 8C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b.vhd
+Z5 FC:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b.vhd
+l0
+L4 1
+VNhe72=U:>jL^DZVfPFcR22
+!s100 [9hL[kO`3^1UREP<nb:I_1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1722474100
+!i10b 1
+Z8 !s108 1722474099.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b.vhd|
+Z10 !s107 C:/Working/CLP_Programs/Codigos/sum1b/Fuentes/sum1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum1b_arq
+R1
+R2
+Z13 DEx4 work 5 sum1b 0 22 Nhe72=U:>jL^DZVfPFcR22
+!i122 21
+l15
+Z14 L14 7
+Z15 VhD58hI1^ZJQm7NXHPhgho1
+Z16 !s100 2UZPWB0l45Eh=M<5d]05e2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esumnb
+Z17 w1721751427
+R1
+R2
+!i122 20
+R3
+Z18 8C:/Working/CLP_Programs/Codigos/sumNb/Fuentes/sumNb.vhd
+Z19 FC:/Working/CLP_Programs/Codigos/sumNb/Fuentes/sumNb.vhd
+l0
+L4 1
+VaMmL=E3BT``=^4RAINUIM1
+!s100 0oSBMS<XbIFOASmlWDZgX2
+R6
+32
+Z20 !s110 1722474099
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/sumNb/Fuentes/sumNb.vhd|
+Z22 !s107 C:/Working/CLP_Programs/Codigos/sumNb/Fuentes/sumNb.vhd|
+!i113 1
+R11
+R12
+Asumnb_arq
+R13
+R1
+R2
+DEx4 work 5 sumnb 0 22 aMmL=E3BT``=^4RAINUIM1
+!i122 20
+l19
+L17 21
+VbANYMZ2jPI1iHX=L5lg6R2
+!s100 =e_`BFCK7GjldGWOa@0hD2
+R6
+32
+R20
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Esumrest
+Z23 w1722474014
+R1
+R2
+!i122 18
+R3
+Z24 8C:/Working/CLP_Programs/Codigos/sumRest/Fuentes/sumRest.vhd
+Z25 FC:/Working/CLP_Programs/Codigos/sumRest/Fuentes/sumRest.vhd
+l0
+L4 1
+VWA0N7^D^Qb[@ej3i5=:UJ3
+!s100 FcG>?@<6keR>EZV@cU7Y`2
+R6
+32
+R20
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/sumRest/Fuentes/sumRest.vhd|
+Z27 !s107 C:/Working/CLP_Programs/Codigos/sumRest/Fuentes/sumRest.vhd|
+!i113 1
+R11
+R12
+Asumrest_arq
+R13
+R1
+R2
+Z28 DEx4 work 7 sumrest 0 22 WA0N7^D^Qb[@ej3i5=:UJ3
+!i122 18
+l23
+L17 29
+VkkfMK@K6QW7Z?BA[7Xa0`2
+!s100 4NEoRD^=fY0?W@Jg^eH<T1
+R6
+32
+R20
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12
+Esumrest_tb
+Z29 w1722474072
+Z30 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 19
+R3
+Z31 8C:/Working/CLP_Programs/Codigos/sumRest/Fuentes/sumRest_tb.vhd
+Z32 FC:/Working/CLP_Programs/Codigos/sumRest/Fuentes/sumRest_tb.vhd
+l0
+L5 1
+V9kSkO@k6NodEF3::n2:A93
+!s100 01>5F72eLccm;P@H;1IRz1
+R6
+32
+R20
+!i10b 1
+R8
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/sumRest/Fuentes/sumRest_tb.vhd|
+Z34 !s107 C:/Working/CLP_Programs/Codigos/sumRest/Fuentes/sumRest_tb.vhd|
+!i113 1
+R11
+R12
+Asumrest_tb_arq
+R28
+R30
+R1
+R2
+DEx4 work 10 sumrest_tb 0 22 9kSkO@k6NodEF3::n2:A93
+!i122 19
+l21
+L8 34
+VoFgLDHE]g]oMZOzhgaiAD1
+!s100 fLBmon3g5=`Mb;kOelm?m1
+R6
+32
+R20
+!i10b 1
+R8
+R33
+R34
+!i113 1
+R11
+R12

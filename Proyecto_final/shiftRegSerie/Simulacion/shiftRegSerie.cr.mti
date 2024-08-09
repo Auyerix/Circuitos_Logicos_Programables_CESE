@@ -1,0 +1,27 @@
+C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftregserie_tb
+-- Compiling architecture shiftregserie_tb_arq of shiftregserie_tb
+-- Loading entity shiftregserie
+
+} {} {}} C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/ffd/Fuentes/ffd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ffd
+-- Compiling architecture ffd_arq of ffd
+
+} {} {}} C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/shiftRegSerie/Fuentes/shiftregSerie.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftregserie
+-- Compiling architecture shiftregserie_arq of shiftregserie
+-- Loading entity ffd
+
+} {} {}}

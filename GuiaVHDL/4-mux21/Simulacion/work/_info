@@ -1,0 +1,94 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Working/CLP_Programs/Codigos/sumRest/Simulacion
+Emux21
+Z0 w1722542308
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 11
+Z3 dC:/Working/CLP_Programs/Codigos/mux21/Simulacion
+Z4 8C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21.vhd
+Z5 FC:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21.vhd
+l0
+L4 1
+V7LN:f81o1li1H`:19c@jQ2
+!s100 lcP=VR05:<`]c7?TFAkGS2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1722542655
+!i10b 1
+Z8 !s108 1722542655.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21.vhd|
+Z10 !s107 C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Amux21_arq
+R1
+R2
+Z13 DEx4 work 5 mux21 0 22 7LN:f81o1li1H`:19c@jQ2
+!i122 11
+l18
+L13 14
+Vd@PG2`kJ17?bndY<lC=j`0
+!s100 =oleolFFYol_ZT3M_72<:3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emux21_tb
+Z14 w1722542642
+R1
+R2
+!i122 12
+R3
+Z15 8C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21_tb.vhd
+Z16 FC:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21_tb.vhd
+l0
+L4 1
+V[6jJoGJ:VclaIIO1Q5W6@3
+!s100 k4jJH38_3a0@:RKhoFPIE0
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21_tb.vhd|
+Z18 !s107 C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21_tb.vhd|
+!i113 1
+R11
+R12
+Amux21_tb_arq
+R13
+R1
+R2
+Z19 DEx4 work 8 mux21_tb 0 22 [6jJoGJ:VclaIIO1Q5W6@3
+!i122 12
+l17
+Z20 L7 32
+VR><VEJ2L`RYLEhZ1BWGN03
+!s100 nlVS:1fD=cf7aiEJMFO4O1
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12

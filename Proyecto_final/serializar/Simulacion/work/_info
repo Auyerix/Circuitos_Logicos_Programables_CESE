@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Working/CLP_Programs/Codigos/Protocheck/Simulacion
+Eserial_sender
+Z0 w1723123284
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 40
+Z4 dC:/Working/CLP_Programs/Codigos/serializar/Simulacion
+Z5 8C:/Working/CLP_Programs/Codigos/serializar/Fuentes/serializar.vhd
+Z6 FC:/Working/CLP_Programs/Codigos/serializar/Fuentes/serializar.vhd
+l0
+L7 1
+Vd=5XF60M9<>YzX>9Ug@G>2
+!s100 V1091d2HMLF;W_laR;Hb>1
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1723123370
+!i10b 1
+Z9 !s108 1723123370.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/serializar/Fuentes/serializar.vhd|
+Z11 !s107 C:/Working/CLP_Programs/Codigos/serializar/Fuentes/serializar.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+Z14 DEx4 work 13 serial_sender 0 22 d=5XF60M9<>YzX>9Ug@G>2
+!i122 40
+l20
+L15 25
+V8<eLZ6aQfeKfh0=OWCKLH1
+!s100 O=1c34FlJI9ETg6ZblOzn1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eserial_sender_tb
+Z15 w1723123366
+R2
+R3
+!i122 41
+R4
+Z16 8C:/Working/CLP_Programs/Codigos/serializar/Fuentes/serializar_tb.vhd
+Z17 FC:/Working/CLP_Programs/Codigos/serializar/Fuentes/serializar_tb.vhd
+l0
+L4 1
+V>UZzj8n:jU<6:nXaHka5Q0
+!s100 FkGiW568?5=4MRGVeg8Oa3
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/serializar/Fuentes/serializar_tb.vhd|
+Z19 !s107 C:/Working/CLP_Programs/Codigos/serializar/Fuentes/serializar_tb.vhd|
+!i113 1
+R12
+R13
+Aserial_sender_tb_arq
+R1
+R14
+R2
+R3
+Z20 DEx4 work 16 serial_sender_tb 0 22 >UZzj8n:jU<6:nXaHka5Q0
+!i122 41
+l14
+L7 25
+V_@Fbi?2kk108BfJ@@UoD90
+!s100 Lb2bcUCWzKa59;`_WR8b?3
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13

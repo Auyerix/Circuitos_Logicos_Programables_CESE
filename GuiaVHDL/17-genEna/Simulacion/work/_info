@@ -1,0 +1,96 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Working/CLP_Programs/Codigos/contBCD/Simulacion
+Egenena
+Z0 w1722907783
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+Z3 dC:/Working/CLP_Programs/Codigos/genEna/Simulacion
+Z4 8C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd
+Z5 FC:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd
+l0
+L6 1
+V9E6Ahn00`n8lfZem`^n>O0
+!s100 3fFjnH2Kh^Sg=eP[1eFT83
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1722907930
+!i10b 1
+Z8 !s108 1722907930.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd|
+Z10 !s107 C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Agenena_arq
+R1
+R2
+Z13 DEx4 work 6 genena 0 22 9E6Ahn00`n8lfZem`^n>O0
+!i122 8
+l20
+L16 28
+Va;744B]AlhOS0<N:HVz<X0
+!s100 iIU4DBLi6Mcnnb9obo=gW0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Egenena_tb
+Z14 w1722907925
+Z15 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 9
+R3
+Z16 8C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna_tb.vhd
+Z17 FC:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna_tb.vhd
+l0
+L6 1
+Vg]ljIZfd10GlgWXiLL`Wf1
+!s100 =5C6RcC8]P7mliCm7FKhN3
+R6
+32
+R7
+!i10b 1
+R8
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna_tb.vhd|
+!s107 C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna_tb.vhd|
+!i113 1
+R11
+R12
+Agenena_tb_arq
+R13
+R15
+R1
+R2
+DEx4 work 9 genena_tb 0 22 g]ljIZfd10GlgWXiLL`Wf1
+!i122 9
+l21
+L9 37
+Vd[@lc4Bk7hnhL?jChSn[61
+!s100 lA@Q2CnV<DGk9KXBYW7:g2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+Z19 !s107 C:/Working/CLP_Programs/Codigos/genEna/Fuentes/genEna_tb.vhd|
+!i113 1
+R11
+R12

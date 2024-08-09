@@ -1,0 +1,20 @@
+# Compile of reg.vhd was successful.
+# Compile of reg_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.reg_tb
+# vsim work.reg_tb 
+# Start time: 17:37:13 on Aug 01,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.reg_tb(reg_tb_arq)
+# Loading work.reg(reg_arq)
+add wave -position end  sim:/reg_tb/clk_tb
+add wave -position end  sim:/reg_tb/rst_tb
+add wave -position end  sim:/reg_tb/ena_tb
+add wave -position end  sim:/reg_tb/d_tb
+add wave -position end  sim:/reg_tb/q_tb
+add wave -position end  sim:/reg_tb/N_tb
+run
+# End time: 18:48:00 on Aug 01,2024, Elapsed time: 1:10:47
+# Errors: 0, Warnings: 5

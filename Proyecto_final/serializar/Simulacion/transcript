@@ -1,0 +1,81 @@
+# Compile of serializar.vhd was successful.
+# Compile of serializar_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.serial_sender_tb
+# vsim work.serial_sender_tb 
+# Start time: 10:08:23 on Aug 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.serial_sender_tb(serial_sender_tb_arq)
+# Loading work.serial_sender(behavioral)
+# Compile of serializar.vhd was successful.
+# Compile of serializar_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.serial_sender_tb(serial_sender_tb_arq)
+# Loading work.serial_sender(behavioral)
+add wave -position end  sim:/serial_sender_tb/clk_tb
+add wave -position end  sim:/serial_sender_tb/rst_tb
+add wave -position end  sim:/serial_sender_tb/serial_out
+add wave -position end  sim:/serial_sender_tb/start_tb
+add wave -position end  sim:/serial_sender_tb/done_tb
+add wave -position end  sim:/serial_sender_tb/sending_tb
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+# Compile of serializar.vhd was successful.
+# Compile of serializar_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of serializar.vhd was successful.
+# Compile of serializar_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+quit -sim
+# End time: 10:18:31 on Aug 08,2024, Elapsed time: 0:10:08
+# Errors: 0, Warnings: 3
+vsim work.serial_sender_tb
+# vsim work.serial_sender_tb 
+# Start time: 10:18:38 on Aug 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.serial_sender_tb(serial_sender_tb_arq)
+# Loading work.serial_sender(behavioral)
+add wave -position end  sim:/serial_sender_tb/clk_tb
+add wave -position end  sim:/serial_sender_tb/rst_tb
+add wave -position end  sim:/serial_sender_tb/serial_out
+add wave -position end  sim:/serial_sender_tb/start_tb
+add wave -position end  sim:/serial_sender_tb/done_tb
+run
+run
+quit -sim
+# End time: 10:22:30 on Aug 08,2024, Elapsed time: 0:03:52
+# Errors: 0, Warnings: 1
+# Compile of serializar.vhd was successful.
+# Compile of serializar_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of serializar.vhd was successful.
+# Compile of serializar_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.serial_sender_tb
+# vsim work.serial_sender_tb 
+# Start time: 10:22:56 on Aug 08,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.serial_sender_tb(serial_sender_tb_arq)
+# Loading work.serial_sender(behavioral)
+add wave -position end  sim:/serial_sender_tb/clk_tb
+add wave -position end  sim:/serial_sender_tb/rst_tb
+add wave -position end  sim:/serial_sender_tb/serial_out
+run
+quit -sim
+# End time: 10:55:14 on Aug 08,2024, Elapsed time: 0:32:18
+# Errors: 0, Warnings: 3
+project open C:/Working/CLP_Programs/Codigos/Protocheck2/Simulacion/protocheck2

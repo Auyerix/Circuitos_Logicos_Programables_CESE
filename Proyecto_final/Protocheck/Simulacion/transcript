@@ -1,0 +1,610 @@
+project open C:/Working/CLP_Programs/Codigos/Protocheck/Simulacion/protocheck
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 08:57:59 on Aug 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+add wave -position end  sim:/protocheck_tb/clk_tb
+add wave -position end  sim:/protocheck_tb/rst_tb
+add wave -position end  sim:/protocheck_tb/ena_tb
+add wave -position end  sim:/protocheck_tb/data_i_tb
+add wave -position end  sim:/protocheck_tb/data_o_tb
+add wave -position end  sim:/protocheck_tb/q_o_tb
+run
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 09:47:06 on Aug 07,2024, Elapsed time: 0:49:07
+# Errors: 0, Warnings: 1
+# Compile of protocheck.vhd failed with 9 errors.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 1 failed with 9 errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+# Load canceled
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 09:50:56 on Aug 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+add wave -position end  sim:/protocheck_tb/clk_tb
+add wave -position end  sim:/protocheck_tb/rst_tb
+add wave -position end  sim:/protocheck_tb/ena_tb
+add wave -position end  sim:/protocheck_tb/data_i_tb
+add wave -position end  sim:/protocheck_tb/data_o_tb
+add wave -position end  sim:/protocheck_tb/q_o_tb
+run
+quit -sim
+# End time: 10:23:48 on Aug 07,2024, Elapsed time: 0:32:52
+# Errors: 0, Warnings: 4
+# Compile of protocheck.vhd failed with 2 errors.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 1 failed with 2 errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+# Load canceled
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 10:25:32 on Aug 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+add wave -position end  sim:/protocheck_tb/clk_tb
+add wave -position end  sim:/protocheck_tb/rst_tb
+add wave -position end  sim:/protocheck_tb/ena_tb
+add wave -position end  sim:/protocheck_tb/data_i_tb
+add wave -position end  sim:/protocheck_tb/data_o_tb
+add wave -position end  sim:/protocheck_tb/q_o_tb
+run
+run
+run
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd failed with 1 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 1 failed with 1 error.
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+run
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+quit -sim
+# End time: 11:44:05 on Aug 07,2024, Elapsed time: 1:18:33
+# Errors: 0, Warnings: 2
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 11:44:17 on Aug 07,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+add wave -position end  sim:/protocheck_tb/clk_tb
+add wave -position end  sim:/protocheck_tb/rst_tb
+add wave -position end  sim:/protocheck_tb/ena_tb
+add wave -position end  sim:/protocheck_tb/data_i_tb
+add wave -position end  sim:/protocheck_tb/data_o_tb
+add wave -position end  sim:/protocheck_tb/q_o_tb
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+run
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd failed with 4 errors.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 1 failed with 4 errors.
+# Compile of protocheck.vhd failed with 4 errors.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 1 failed with 4 errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 1 failed with 2 errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# Loading work.genena(genena_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 17:42:24 on Aug 07,2024, Elapsed time: 5:58:07
+# Errors: 0, Warnings: 1

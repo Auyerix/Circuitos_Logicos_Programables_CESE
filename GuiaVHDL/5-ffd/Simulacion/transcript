@@ -1,0 +1,33 @@
+# Compile of ffd.vhd failed with 2 errors.
+# Compile of ffd_tb.vhd failed with 2 errors.
+# 2 compiles, 2 failed with 4 errors.
+# Compile of ffd.vhd failed with 2 errors.
+# Compile of ffd_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of ffd.vhd failed with 2 errors.
+# Compile of ffd_tb.vhd failed with 2 errors.
+# 2 compiles, 2 failed with 4 errors.
+# Compile of ffd.vhd failed with 2 errors.
+# Compile of ffd_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of ffd.vhd failed with 2 errors.
+# Compile of ffd_tb.vhd was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of ffd.vhd failed with 1 errors.
+# Compile of ffd_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of ffd.vhd was successful.
+# Compile of ffd_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.ffd_tb
+# vsim work.ffd_tb 
+# Start time: 01:20:27 on Jul 13,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ffd_tb(ffd_tb_arq)
+# Loading work.ffd(ffd_arq)
+add wave -position end sim:/ffd_tb/*
+run
+# End time: 01:24:34 on Jul 13,2024, Elapsed time: 0:04:07
+# Errors: 0, Warnings: 11

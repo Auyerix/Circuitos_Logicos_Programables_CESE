@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Working/CLP_Programs/Codigos/ContadorBCD_lento/Simulacion
+Econtbcd
+Z0 w1722906737
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 23
+Z4 dC:/Working/CLP_Programs/Codigos/contBCD/Simulacion
+Z5 8C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD.vhd
+Z6 FC:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD.vhd
+l0
+L5 1
+V<?n?bL<mNZV]:edb>^WP]1
+!s100 odIIaVMI76dbbT;GcMg=>3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1722906774
+!i10b 1
+Z9 !s108 1722906774.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD.vhd|
+Z11 !s107 C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acontbcd_arq
+R1
+R2
+R3
+DEx4 work 7 contbcd 0 22 <?n?bL<mNZV]:edb>^WP]1
+!i122 23
+l38
+L15 60
+Vjc;HR^F4Y13Y^=ZlXR50e1
+!s100 3B:i:dRgb<]Sm08eS5=mV1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtbcd_tb
+Z14 w1722906763
+R2
+R3
+!i122 24
+R4
+Z15 8C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD_tb.vhd
+Z16 FC:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD_tb.vhd
+l0
+L4 1
+V1QOboS1X3keG:Hk:Df4I70
+!s100 2KNi8097bJPn`[<GcfV@E2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD_tb.vhd|
+Z18 !s107 C:/Working/CLP_Programs/Codigos/contBCD/Fuentes/contBCD_tb.vhd|
+!i113 1
+R12
+R13
+Acontbcd_tb_arq
+R2
+R3
+DEx4 work 10 contbcd_tb 0 22 1QOboS1X3keG:Hk:Df4I70
+!i122 24
+l26
+L7 35
+VOISG=nUP@7VR9XeeYhSRg1
+!s100 kI@69m`bbC5a>cnU:P=8F0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ereg
+Z19 w1721749774
+R2
+R3
+!i122 25
+R4
+Z20 8C:/Working/CLP_Programs/Codigos/reg/Fuentes/reg.vhd
+Z21 FC:/Working/CLP_Programs/Codigos/reg/Fuentes/reg.vhd
+l0
+L4 1
+VHUh4m=LXTdKTGz]g41AdT0
+!s100 A3RQ?OPkO4zAP9[mVjbSD3
+R7
+32
+Z22 !s110 1722906775
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Working/CLP_Programs/Codigos/reg/Fuentes/reg.vhd|
+Z24 !s107 C:/Working/CLP_Programs/Codigos/reg/Fuentes/reg.vhd|
+!i113 1
+R12
+R13
+Areg_arq
+R2
+R3
+Z25 DEx4 work 3 reg 0 22 HUh4m=LXTdKTGz]g41AdT0
+!i122 25
+l18
+Z26 L17 14
+Z27 VkmYRl:[Il_4lIPc8M9XI03
+Z28 !s100 l^VA1V0[IKQmH8=Vne6E`1
+R7
+32
+R22
+!i10b 1
+R9
+R23
+R24
+!i113 1
+R12
+R13

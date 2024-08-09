@@ -1,0 +1,462 @@
+# Compile of protocheck.vhd failed with 20 errors.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd failed with 3 errors.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 3 failed with 25 errors.
+# Compile of protocheck.vhd failed with 11 errors.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 2 failed with 13 errors.
+# Compile of protocheck.vhd failed with 11 errors.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 2 failed with 13 errors.
+# Compile of protocheck.vhd failed with 10 errors.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 2 failed with 12 errors.
+# Compile of protocheck.vhd failed with 9 errors.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 2 failed with 11 errors.
+# Compile of protocheck.vhd failed with 8 errors.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 2 failed with 10 errors.
+# Compile of protocheck.vhd failed with 6 errors.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 2 failed with 8 errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 1 failed with 2 errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd failed with 2 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 1 failed with 2 errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:13:42 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# ** Fatal: (vsim-3348) Port length (12) does not match actual length (4) for port "/protocheck_tb/DUT/data_o".
+#    Time: 0 ps  Iteration: 0  Instance: /protocheck_tb/DUT File: C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck.vhd Line: 14
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 15:13:43 on Aug 06,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 17
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:14:56 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# ** Fatal: (vsim-3348) Port length (12) does not match actual length (4) for port "/protocheck_tb/DUT/data_o".
+#    Time: 0 ps  Iteration: 0  Instance: /protocheck_tb/DUT File: C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck.vhd Line: 14
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 15:14:57 on Aug 06,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:15:23 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 12 (11 downto 0). Right is 4 (3 downto 0).
+#    Time: 0 ps  Iteration: 0  Instance: /protocheck_tb/DUT File: C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck.vhd Line: 64
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 15:15:24 on Aug 06,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+# Compile of protocheck.vhd failed with 1 errors.
+# Compile of protocheck_tb.vhd failed with 1 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 2 failed with 2 errors.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd failed with 1 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 1 failed with 1 error.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:23:39 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# ** Fatal: (vsim-3348) Port length (12) does not match actual length (4) for port "/protocheck_tb/DUT/inst_shiftreg/q_o".
+#    Time: 0 ps  Iteration: 0  Instance: /protocheck_tb/DUT/inst_shiftreg File: C:/Working/CLP_Programs/Codigos/shiftReg/Fuentes/shiftreg.vhd Line: 14
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 15:23:40 on Aug 06,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 4
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:27:05 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# ** Fatal: (vsim-3348) Port length (12) does not match actual length (4) for port "/protocheck_tb/DUT/data_o".
+#    Time: 0 ps  Iteration: 0  Instance: /protocheck_tb/DUT File: C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck.vhd Line: 14
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 15:27:06 on Aug 06,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:34:25 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 12 (11 downto 0). Right is 4 (5 downto 2).
+#    Time: 0 ps  Iteration: 0  Instance: /protocheck_tb/DUT File: C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck.vhd Line: 39
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 15:34:26 on Aug 06,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:36:19 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+# ** Fatal: (vsim-3420) Array lengths do not match. Left is 12 (11 downto 0). Right is 4 (3 downto 0).
+#    Time: 0 ps  Iteration: 0  Instance: /protocheck_tb/DUT File: C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck.vhd Line: 64
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 15:36:19 on Aug 06,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:38:20 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+add wave -position end  sim:/protocheck_tb/clk_tb
+add wave -position end  sim:/protocheck_tb/rst_tb
+add wave -position end  sim:/protocheck_tb/ena_tb
+add wave -position end  sim:/protocheck_tb/data_i_tb
+add wave -position end  sim:/protocheck_tb/data_o_tb
+add wave -position end  sim:/protocheck_tb/q_o_tb
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ps  Iteration: 0  Process: /protocheck_tb/line__22 File: C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck_tb.vhd Line: 23
+# Fatal error in Architecture protocheck_tb_arq at C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck_tb.vhd line 23
+# 
+# HDL call sequence:
+# Stopped at C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck_tb.vhd 23 Architecture protocheck_tb_arq
+# 
+quit -sim
+# End time: 15:39:41 on Aug 06,2024, Elapsed time: 0:01:21
+# Errors: 1, Warnings: 2
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:39:50 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+add wave -position end  sim:/protocheck_tb/clk_tb
+add wave -position end  sim:/protocheck_tb/rst_tb
+add wave -position end  sim:/protocheck_tb/ena_tb
+add wave -position end  sim:/protocheck_tb/data_i_tb
+add wave -position end  sim:/protocheck_tb/data_o_tb
+add wave -position end  sim:/protocheck_tb/q_o_tb
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ps  Iteration: 0  Process: /protocheck_tb/line__22 File: C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck_tb.vhd Line: 22
+# Fatal error in Architecture protocheck_tb_arq at C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck_tb.vhd line 22
+# 
+# HDL call sequence:
+# Stopped at C:/Working/CLP_Programs/Codigos/Protocheck/Fuentes/protocheck_tb.vhd 22 Architecture protocheck_tb_arq
+# 
+quit -sim
+# End time: 15:42:08 on Aug 06,2024, Elapsed time: 0:02:18
+# Errors: 1, Warnings: 2
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:42:16 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+add wave -position end  sim:/protocheck_tb/clk_tb
+add wave -position end  sim:/protocheck_tb/rst_tb
+add wave -position end  sim:/protocheck_tb/ena_tb
+add wave -position end  sim:/protocheck_tb/data_i_tb
+add wave -position end  sim:/protocheck_tb/data_o_tb
+add wave -position end  sim:/protocheck_tb/q_o_tb
+run
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# ** Fatal: (vsim-3348) Port length (12) does not match actual length (4) for port "/protocheck_tb/DUT/inst_comparador/dataA_i".
+#    Time: 0 ps  Iteration: 0  Instance: /protocheck_tb/DUT/inst_comparador File: C:/Working/CLP_Programs/Codigos/comparador/Fuentes/comparador.vhd Line: 11
+# FATAL ERROR while loading design
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# No Design Loaded!
+vsim work.protocheck_tb
+# vsim work.protocheck_tb 
+# Start time: 15:42:16 on Aug 06,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd failed with 1 errors.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 1 failed with 1 error.
+# Compile of protocheck.vhd was successful.
+# Compile of protocheck_tb.vhd was successful.
+# Compile of comparador.vhd was successful.
+# Compile of shiftreg.vhd was successful.
+# Compile of ffd.vhd was successful.
+# 5 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.protocheck_tb(protocheck_tb_arq)
+# Loading work.protocheck(protocheck_arq)
+# Loading work.comparador(comparador_arq)
+# Loading work.shiftreg(shiftreg_arq)
+# Loading work.ffd(ffd_arq)
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+quit -sim
+# End time: 22:17:16 on Aug 06,2024, Elapsed time: 6:35:00
+# Errors: 0, Warnings: 1

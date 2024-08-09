@@ -1,0 +1,18 @@
+C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux21
+-- Compiling architecture mux21_arq of mux21
+
+} {} {}} C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Working/CLP_Programs/Codigos/mux21/Fuentes/mux21_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux21_tb
+-- Compiling architecture mux21_tb_arq of mux21_tb
+-- Loading entity mux21
+
+} {} {}}

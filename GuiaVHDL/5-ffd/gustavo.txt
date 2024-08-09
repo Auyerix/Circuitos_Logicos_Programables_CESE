@@ -1,0 +1,3 @@
+Este es un flip flop de solo un bit...
+
+Reg es un registro de varios bits entrada paralelo salida paralelo
